@@ -1,0 +1,29 @@
+[33mcommit c2bb74a10d9fbae023f8ee4710dc2615785fae9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: nivagion <123876921+nivagion@users.noreply.github.com>
+Date:   Tue Jul 22 21:48:19 2025 +0200
+
+    mislio sam da onaj overfit radi ali očito ne bo
+
+[33mcommit 6e27d5f67b30b4cd6b5f48933f00a3f3d1902a6c[m
+Author: nivagion <123876921+nivagion@users.noreply.github.com>
+Date:   Tue Jul 22 03:39:21 2025 +0200
+
+    nikad nisam mislio da cu biti ovoliko sretan zbog overfittanja
+
+[33mcommit b485848949e2f88f926a3c1317001e25bd060552[m
+Author: nivagion <123876921+nivagion@users.noreply.github.com>
+Date:   Tue Jul 22 01:52:06 2025 +0200
+
+    dodan beam ctc decoder, ali i dalje platoea i dok treba overfittati
+
+[33mcommit 6d8b44b7f20ab56dea718f6b8e2daa4aa4906cf4[m
+Author: nivagion <123876921+nivagion@users.noreply.github.com>
+Date:   Tue Jul 22 01:21:55 2025 +0200
+
+    donekle overfitta na jednom sampleu, što sam htio da uspije jer nisam bio siguran ni da to može, dodati ću ctcdecode sljedeće
+
+[33mcommit 2492040edead6e50cb4007ca6c2e98347f4d74b0[m
+Author: nivagion <123876921+nivagion@users.noreply.github.com>
+Date:   Mon Jul 21 13:50:21 2025 +0200
+
+    model treba fine tuneat, zato radim ovo prije nego sto nesto zeznem
